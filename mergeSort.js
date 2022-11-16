@@ -30,4 +30,4 @@ function merge(left,right){
 }
 
 
-mergeSort([3,5,2,5,4,3,21,5])
+mergeSort([3,5,2,5,4,3,21,5]) // 2,3,4,5,5,5,21
